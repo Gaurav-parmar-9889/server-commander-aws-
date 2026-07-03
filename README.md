@@ -26,7 +26,6 @@ Computing Internship.
 ## Screenshots
 See the images in this repository for proof of each step:
 - EC2 instance running
-- Security group configuration
 - SSH connection established
 - Nginx active status
 - Live website in browser
